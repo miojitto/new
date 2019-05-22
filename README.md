@@ -1,4 +1,4 @@
-# Programas para comitar alterações no projeto: 
+# Programas para comitar alterações no projeto (para quem usa windows): 
  - Git Kraken
  - Git Desktop
  - Git Tortoise
